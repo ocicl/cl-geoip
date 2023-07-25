@@ -1,0 +1,10 @@
+* cl-geoip
+
+Wrapper around libGeoIP
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dasuxullebt/cl-geoip.git   |
+| commit  | b9f165c  |
+| systems | cl-geoip |
+|---------+-------------------------------------------|
+
